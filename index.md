@@ -24,5 +24,5 @@ This project showcases the application of **Response Surface Methodology (RSM)**
 
 ### Technical Core:
 * **Analytical Foundation:** Aloesin quantification via **HPLC-DAD-ESI/MS<sup>n</sup>**.
-* **Statistical Framework:** Central Composite Rotatory Design (CCRD) & Reduced Cubic Models.
+* **Statistical Framework:** Central Composite Rotatable Design (CCRD) & Reduced Cubic Models.
 * **Tech Stack:** Python, Streamlit, Statsmodels, Plotly.
