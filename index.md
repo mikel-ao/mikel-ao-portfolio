@@ -5,9 +5,10 @@
 ---
 
 ## 👨‍🔬 Professional Profile
-I am a **Chemist** and **Researcher** with an **MSc in Natural Product Pharmacy** and a **PhD in Food Science and Technology**. My career is dedicated to the **digital transformation of laboratory R&D**, combining deep pharmaceutical chemistry knowledge with modern data science to optimize high-value compound recovery.
+I am a **Chemist** and **Researcher** with an **MSc in Natural Product Pharmacy** and a **PhD in Food Science and Technology**. My expertise focuses on the **design of new functional foods** and the **digital transformation of laboratory R&D**, combining deep pharmaceutical chemistry knowledge with modern data science to optimize high-value compound recovery.
 
 With a strong background in the characterization of bioactives, I bridge the gap between complex analytical chemistry and predictive modeling to:
+* **Design & Formulate:** Development of innovative functional foods and nutraceuticals based on natural bioactive ingredients.
 * **Optimize Industrial Processes:** Using Response Surface Methodology (RSM) to maximize efficiency and sustainability.
 * **Master Analytical Workflows:** Expert quantification of natural products via **HPLC-DAD-ESI/MS<sup>n</sup>**.
 * **Drive Bioeconomy Innovation:** Transforming raw laboratory data into scalable, data-driven solutions for the cosmetic and food industries.
